@@ -2,7 +2,25 @@
 {
 "title":"Foggy Day",
 "album_art":"https://i.scdn.co/image/ab67616d0000b27321abfc7b6db307a58e31fffd",
-"audio":"https://github.com/jnd-lb/radio-music-api/blob/main/y2mate.com%20-%20WYS%20-%20Snowman_j9ziXYpFs1I.mp3?raw=true",
+"audio":"https://github.com/jnd-lb/radio-music-api/blob/main/franksinatra_foggyday.mp3?raw=true",
   "singer_name" : "Frank Sinatra"
+},
+{
+"title":"Quizas Quizas Quizas",
+"album_art":"https://i.discogs.com/jhg7DMNMBurvxZFM1_WVNBF8Bs19XSNCFFzfkmgG_5c/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI4MjQx/NzAtMTM1MTc2MzI3/OC01NjM2LmpwZWc.jpeg",
+"audio":"https://github.com/jnd-lb/radio-music-api/blob/main/nat_cole_king_Quizas.mp3?raw=true",
+ "singer_name" : "Nat King Cole"
+},
+{
+"title":"What a Wonderful World",
+"album_art":"https://upload.wikimedia.org/wikipedia/en/6/63/Louis_Armstrong_What_a_Wonderful_World.jpg",
+"audio":"https://github.com/jnd-lb/radio-music-api/blob/main/Louis_Armstrong_What_A_Wonderful_World.mp3?raw=true",
+ "singer_name" : "Louis Armstrong"
+},
+{
+"title":"La Vie En Rose",
+"album_art":"https://upload.wikimedia.org/wikipedia/en/6/67/Edith_Piaf_La_Vie_en_rose_7-inch_single.png",
+"audio":"https://github.com/jnd-lb/radio-music-api/blob/main/Edith_Piaf_La_Vie_En_Rose.mp3?raw=true",
+"singer_name" : "Edith Piaf"
 }
 ]
